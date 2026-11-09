@@ -1,1 +1,2 @@
 learning git slowly step at a time
+git tracks changes in files
