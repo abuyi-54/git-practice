@@ -2,4 +2,6 @@ learning git slowly step at a time
 git tracks changes in files
 this change  belongs to the feature branch
 this line was added directly on github
+
 git conflict practice:version from main
+git conflict practice:version from git-practice
